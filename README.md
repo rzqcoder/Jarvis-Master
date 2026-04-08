@@ -6,6 +6,8 @@ J.A.R.V.I.S. (Just A Rather Very Intelligent System) is a fully voice‑controll
 
 ⚠️ Disclaimer: This project is a personal automation tool. Use at your own risk. It can control your mouse, keyboard, and system settings. Always review the code before running.
 
+⚠️ Make sure to make an authorized_users folder, and in that folder take a picture of yourself, rename it tony.jpg, and put it in there for the face recognition to work.
+
 ✨ Features
 
 - 🎙️ Voice Wake Word – Responds to "Jarvis", "Buddy", "Computer", "Sir", or "Boss".
