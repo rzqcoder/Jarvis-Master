@@ -1,0 +1,42 @@
+{
+  "work": [
+    {
+      "action": "open_app",
+      "param": "Visual Studio Code"
+    },
+    {
+      "action": "open_app",
+      "param": "Chrome"
+    }
+  ],
+  "school": [
+    {
+      "action": "open_url",
+      "param": "https://classroom.google.com"
+    },
+    {
+      "action": "open_url",
+      "param": "school_portal_url_here"
+    }
+  ],
+  "chill": [
+    {
+      "action": "open_url",
+      "param": "https://www.youtube.com"
+    },
+    {
+      "action": "open_url",
+      "param": "https://discord.com/login"
+    }
+  ],
+    "gaming": [
+    {
+      "action": "open_url",
+      "param": "https://www.discord.com/login"
+    },
+    {
+      "action": "open_app",
+      "param": "Roblox Player"
+    }
+  ]
+}
