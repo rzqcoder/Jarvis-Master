@@ -1,0 +1,16 @@
+# .gitignore
+.env
+credentials.json
+token.json
+authorized_users/
+security_logs/
+*.log
+jarvis_memory.json
+jarvis_longterm.json
+clipboard_storage.json
+macros.json
+website_hashes.json
+quote_cache.json
+voice_scripts/index.json
+__pycache__/
+*.pyc
