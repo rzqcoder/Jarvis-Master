@@ -1,14 +1,14 @@
 # Core Voice & TTS
 SpeechRecognition==3.10.0
 edge-tts==6.1.12
-pygame==2.5.2
+pygame>=2.6.0
 
 # Automation & System Control
 pyautogui==0.9.54
 psutil==5.9.8
 GPUtil==1.4.0
 pygetwindow==0.0.9
-pywin32==306
+pywin32>=306
 winshell==0.6
 pycaw==20230407
 comtypes==1.2.0
@@ -16,7 +16,7 @@ comtypes==1.2.0
 # Computer Vision & OCR
 opencv-python==4.9.0.80
 pytesseract==0.3.10
-Pillow==10.2.0
+Pillow>=11.0.0
 
 # Web & APIs
 requests==2.31.0
@@ -25,9 +25,8 @@ flask==3.0.2
 
 # AI & Machine Learning
 groq==0.4.2
-deepface==0.0.79
-numpy==1.26.4
-scipy==1.12.0
+numpy>=2.1.0
+scipy>=1.14.0
 
 # Scheduling & Utilities
 schedule==1.2.1
